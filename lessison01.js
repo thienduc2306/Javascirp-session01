@@ -34,19 +34,24 @@
 
 
 //lessison 6: Chuyển đổi case chữ
-let angry = "phạm thị lan hồng";
-let angryUpperCase = angry.toUpperCase();
-console.log(angryUpperCase);
+// let angry = "phạm thị lan hồng";
+// let angryUpperCase = angry.toUpperCase();
+// console.log(angryUpperCase);
 
-let hoTen = "lê minh huyền";
-let hoTenUpperCase = hoTen.toUpperCase();
-console.log(hoTenUpperCase);
+// let hoTen = "lê minh huyền";
+// let hoTenUpperCase = hoTen.toUpperCase();
+// console.log(hoTenUpperCase);
 
 
 //lessison 7:Sử dụng đối tượng Math Object
 // let so = prompt("nhập một số bất kỳ:");
 // let canBacHai = Math.sqrt(so);
 // console.log(canBacHai);
+
+
+//lessison 8:Sử dụng đối tượng math object
+let squareRoot = prompt("Nhập 1 số bất kì");
+console.log(Math.sqrt(squareRoot));
 
 //lessison 9:
 // let soTien = prompt("nhập số tiền:");
